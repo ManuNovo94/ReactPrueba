@@ -1,0 +1,337 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.head {
+  float: left;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  color: #06f512;
+}
+
+.titulo {
+  float: left;
+  width: 50%;
+  height: 90px;
+  margin: 5px;
+  margin-top: 5px;
+  padding-left: 20%;
+  align-content: center;
+}
+
+.label {
+  float: left;
+  color: #06d9f5;
+  width: 73%;
+  margin-left: 2em;
+  margin-top: 29px;
+}
+
+.foto {
+  float: left;
+  width: 5%;
+  height: 5%;
+  margin: 15px;
+  margin-left: 5cm;
+}
+.form1line1 {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-left: 10px;
+}
+.form1line2 {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-left: 10px;
+}
+.form1line3 {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+.cont {
+  float: left;
+  margin-top: 190px;
+  margin-left: 5%;
+  width: 800px;
+  height: 100px;
+}
+.prueba {
+  float: right;
+  width: 100%;
+  height: 100%;
+  padding-top: 10%;
+}
+.col {
+  margin: 9px;
+  padding-left: 6px;
+}
+.boton {
+  background-color: #06d9f5;
+  color: black;
+  margin: 5%;
+  border-radius: 20px;
+}
+.borrar {
+  margin: 9px;
+  background-color: #06d9f5;
+}
+.introd {
+  float: left;
+  margin: 1cm;
+  margin-right: 60%;
+  width: 5em;
+  height: 1em;
+}
+.listanom {
+  float: right;
+  margin: 0px;
+  margin-right: 15em;
+}
+.componentelist {
+  float: left;
+  margin: 3cm;
+  margin-top: 2em;
+  width: 100%;
+  height: auto;
+}
+.listanom {
+  float: right;
+  width: 50%;
+  height: 50%;
+  margin-top: 3cm;
+  margin-left: 3em;
+}
+.formularionomb {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+
+.form1 {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-top: 1cm;
+  margin-left: 1cm;
+}
+#tituloform1 {
+  color: #06d9f5;
+}
+#labelform1 {
+  float: left;
+  margin-top: 12px;
+}
+#labelform2 {
+  float: left;
+  margin-top: 15px;
+}
+
+#textoform1 {
+  float: left;
+  margin-top: 1em;
+  margin-left: 1em;
+}
+
+#textoform2 {
+  float: left;
+  margin-top: 1em;
+  margin-left: 1em;
+}
+#botonform1 {
+  width: 2cm;
+  height: 1cm;
+  margin-top: 2em;
+  margin-left: 4cm;
+  border-radius: 20px;
+  background-color: #06d9f5;
+  cursor: pointer;
+}
+.listadatos {
+  float: left;
+  width: 100%;
+  height: 100%px;
+}
+#titulodatos {
+  color: #06d9f5;
+}
+#etiquetalista {
+  margin: 7px;
+  margin-top: 15px;
+}
+#botonlistdat {
+  margin-left: 20px;
+  background-color: #06d9f5;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.listli {
+  margin-left: 1cm;
+  margin-top: 35px;
+}
+.formulario2 {
+  float: left;
+  width: 30%;
+  height: 100%;
+  margin-left: 5cm;
+  padding-top: 2cm;
+}
+#tituloform2 {
+  color: #06d9f5;
+  margin-left: 1cm;
+}
+.formcontainer {
+  float: left;
+  margin-top: 25%;
+  width: 30%;
+  height: 100%;
+  margin-top: 1cm;
+  margin-left: 2cm;
+}
+#election {
+  float: left;
+  margin: 6px;
+  margin-top: 17px;
+  margin-left: 23px;
+}
+.divlabtext {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-top: 35px;
+  margin-left: 8px;
+}
+.etdate {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-top: 35px;
+  margin-left: 8px;
+}
+.etbool {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-top: 35px;
+}
+.etnumb {
+  float: left;
+  width: 100%;
+  height: 100%;
+  margin-top: 35px;
+  margin-left: 8px;
+}
+
+#labeltext {
+  float: left;
+  margin-right: 1em;
+}
+#textboxinputT {
+  width: 100%;
+  margin-left: 1em;
+}
+#textboxinputN {
+  margin-left: 1em;
+  width: 100%;
+}
+#calend {
+  color: #06d9f5;
+  margin-left: 1em;
+
+  width: 100%;
+}
+.formofform {
+  float: left;
+  margin-left: 2cm;
+  height: 100%;
+  width: 100%;
+}
+.formapi {
+  float: left;
+  height: 100%;
+  width: 20%;
+  padding-top: 2cm;
+}
+#formofformslabel {
+  color: #0c0d0e;
+  cursor: pointer;
+}
+#formofformtittle {
+  color: #06d9f5;
+}
+#dbotonldiv {
+  float: right;
+  margin-right: 0%;
+}
+
+#etdivlabt {
+  float: left;
+  width: 10%;
+}
+
+#etdivinpu {
+  float: left;
+  margin-left: 1cm;
+}
+#etnuladiv {
+  float: left;
+  width: 10%;
+}
+#etdivinpu {
+  float: left;
+  margin-left: 1cm;
+}
+#etnumindiv {
+  float: left;
+  margin-left: 1cm;
+}
+#etnumlab {
+  float: left;
+  margin-right: 1em;
+}
+#etdatlabdiv {
+  float: left;
+  width: 10%;
+}
+
+#etdatinpdiv {
+  float: left;
+  margin-left: 1cm;
+}
+#labeldat {
+  float: left;
+  margin-right: 1em;
+}
+.form1lineorder {
+  float: left;
+  width: 100%;
+  height: 100;
+  margin-left: 10px;
+}
+#labelorder {
+  float: left;
+  margin-top: 15px;
+}
+#inputorder {
+  float: left;
+  margin: 6px;
+  margin-top: 17px;
+  margin-left: 23px;
+  width: 40px;
+}
+#dbajarldiv {
+  float: right;
+  margin-right: 2%;
+}
+
+#dsubirldiv {
+  float: right;
+  margin-right: 6%;
+}
