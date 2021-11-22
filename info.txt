@@ -1,0 +1,3 @@
+Faltan los paquetes de node,hay que actualizar los paquetes.
+
+ejecutar npm update.
